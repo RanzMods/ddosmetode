@@ -22,7 +22,7 @@
   <h2>Windows</h2><br>
 </div>
 
-Download Python 3.10 [here](https://www.python.org/downloads/), open the installer and click on `add python to PATH`. Next, download `overload` <a href="https://github.com/7zx/overload/archive/refs/heads/main.zip" target="blank">here</a> and open CMD or PowerShell in its directory. Now you need to create a Virtual Enviroment for the application; if you have `make` utility on your system just execute:
+Download Python 3.10 [here](https://www.python.org/downloads/), open the installer and click on `add python to PATH`. Next, download `overload` <a href="[https://github.com/hengker777/ddosme/overload](https://github.com/hengker777/ddosmetode.git)/archive/refs/heads/main.zip" target="blank">here</a> and open CMD or PowerShell in its directory. Now you need to create a Virtual Enviroment for the application; if you have `make` utility on your system just execute:
 
   ```
   make setup
@@ -46,7 +46,7 @@ If you don't have it, then execute:
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/hengker777/ddosmetode.git
 cd overload/
 
 make setup
@@ -64,7 +64,7 @@ make run
 pkg update
 pkg install python3 python3-pip git -y
 
-git clone https://github.com/7zx/overload
+git clone https://github.com/hengker777/ddosmetode.git
 cd overload/
 
 pip install -r requirements.txt
